@@ -28,3 +28,8 @@ python3 run_downstream.py -m evaluate -e result/downstream/lid_hubert
 
 # Performance on test set 
 DistilHuBERT: 51.26%
+
+# Reference 
+The implementation of speaker identification downstream on S3PRL.
+[https://github.com/s3prl/s3prl/tree/main/s3prl/downstream/voxceleb1](https://github.com/s3prl/s3prl/tree/main/s3prl/downstream/voxceleb1)
+Reference author: Shu-wen Yang (https://github.com/leo19941227)
