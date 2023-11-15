@@ -23,7 +23,7 @@ optimizer:
 
 downstream_expert: 
   datarc:
-    root_dir: /work/nervjack1027/important_script/tidy_lid_data/Data/10min/
+    root_dir: /work/example/tidy_lid_data/Data/
     num_workers: 12
     train_batch_size: 8
     eval_batch_size: 1
