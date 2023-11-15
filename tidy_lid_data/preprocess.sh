@@ -6,4 +6,4 @@ unzip sixth_edition.zip
 rm sixth_edition.zip
 
 # Stage 2: Preprocess
-python3 tidy_data.py --data_dir ./sixth_edition --out_dir $1
+python3 tidy_lid_data/tidy_data.py --data_dir `pwd`/sixth_edition --out_dir $1
